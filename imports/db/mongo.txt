@@ -1,4 +1,8 @@
 
+Mongo DB Name: sunmarkerapp 
+
+Collections Command : show collections
+
 Collection Name: user
 
 "user" Structure:
